@@ -17,10 +17,10 @@ A modern and intuitive Java-based GUI application to calculate and display a per
 ## 🖼️ Screenshots
 
 ### Main Interface
-<img src="C:\Users\Rw\IdeaProjects\Computerization of Health Records\assets\main_interface.png" alt="Main Interface" width="600">
+![main_interface](https://github.com/user-attachments/assets/5c912b1c-62fe-40c5-8547-6a00d4dc199c)
 
 ### Calculated Health Profile
-<img src="C:\Users\Rw\IdeaProjects\Computerization of Health Records\assets\out_examole.png" alt="Health Profile Output" width="600">
+![output_example](https://github.com/user-attachments/assets/8b32f2fb-e9b5-487d-b94f-504ba6a56159)
 
 ## 📖 How to Use
 
@@ -58,10 +58,6 @@ A modern and intuitive Java-based GUI application to calculate and display a per
 - Add graphical BMI charts for better visualization.
 - Enable data export for health records.
 - Add more health metrics, such as calorie requirements.
-
-## 💻 Screenshots Folder Setup
-
-Create a folder called `assets` in the root directory and add screenshots for the application.
 
 ## 🤝 Contributing
 
