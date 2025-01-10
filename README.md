@@ -17,10 +17,10 @@ A modern and intuitive Java-based GUI application to calculate and display a per
 ## 🖼️ Screenshots
 
 ### Main Interface
-<img src="assets\main_interface.png" alt="Main Interface" width="600">
+<img src="C:\Users\Rw\IdeaProjects\Computerization of Health Records\assets\main_interface.png" alt="Main Interface" width="600">
 
 ### Calculated Health Profile
-<img src="assets/output_example.png" alt="Health Profile Output" width="600">
+<img src="C:\Users\Rw\IdeaProjects\Computerization of Health Records\assets\out_examole.png" alt="Health Profile Output" width="600">
 
 ## 📖 How to Use
 
